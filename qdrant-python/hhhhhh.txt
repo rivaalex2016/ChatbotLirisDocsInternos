@@ -1,0 +1,4 @@
+cd C:\Users\jrintriago\Desktop\Liris
+& .\.venv\Scripts\Activate.ps1
+cd qdrant-python
+python app.py
